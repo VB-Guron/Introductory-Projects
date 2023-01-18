@@ -1,2 +1,2 @@
 # Personal-Website-Projects
- A series of websites created to explore HTML, CSS, and Javascript
+ A series of files created to explore HTML, CSS, Javascript, and JSON
